@@ -6,6 +6,7 @@
 <meta charset="EUC-KR">
 <title>Login</title>
 <link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
+<script type="text/javascript" src="/js/bootstrap.js"></script>
 </head>
 <body>
 	<div class="container-fluid">
