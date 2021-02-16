@@ -5,6 +5,7 @@
 <head>
 <meta charset="EUC-KR">
 <title>Login</title>
+<link rel="stylesheet" type="text/css" href="/css/bootstrap.min.css">
 </head>
 <body>
 	<div class="container-fluid">
